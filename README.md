@@ -1,4 +1,5 @@
 # sathya-homeapplainces
-test-base code
-test-data
-listners
+open browser
+search homeapplainces
+list out the grinder
+checklist
